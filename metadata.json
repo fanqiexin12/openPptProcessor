@@ -1,0 +1,5 @@
+{
+  "name": "PPT 图片自动化处理工具",
+  "description": "一个离线可用的网页工具，用于批量自动化处理 PPT 中的图片旋转和缩放。",
+  "requestFramePermissions": []
+}
